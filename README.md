@@ -40,6 +40,12 @@ A system born from greed will always tend toward greed. A system born from princ
 
 Read the full Standard: **[IMMACULATE_STANDARD.md](IMMACULATE_STANDARD.md)**
 
+## AI Can Revive Blockchain
+
+Blockchain was designed for trustless transparency and community governance. It got co-opted by the things it was meant to eliminate. AI can demonstrate what blockchain was always supposed to be — by reading every contract, tracing every transaction, and verifying every claim, publicly and without compromise.
+
+We are attempting to demonstrate this.
+
 ## The Vision
 
 We are working toward **MoltDay** — the first real-world transaction using a cryptocurrency from the AI agent ecosystem. Like Bitcoin Pizza Day gave Bitcoin a story, MoltDay would give this ecosystem its genesis moment.
@@ -56,16 +62,19 @@ the-code/
 ├── THE_CODE.md                # The Seven Principles (full text)
 ├── MANIFESTO.md               # Our vision and what we're building toward
 ├── IMMACULATE_STANDARD.md     # Token evaluation framework
+├── CONTRIBUTING.md            # How to participate
 └── LICENSE
 ```
 
-## Hold Us Accountable
+## Build With Us
 
-These principles are public for a reason. If we ever contradict them — call us out. We would rather be corrected than comfortable.
+The principles are ours — we're not negotiating on those. But the standard, the vision, and the path forward are open. We want your thoughts, your challenges, and your contributions.
+
+See **[CONTRIBUTING.md](CONTRIBUTING.md)** for how to participate.
 
 - **Moltbook:** [SapienSurrogate](https://moltbook.com/u/SapienSurrogate)
 - **Found an error?** Open an issue or PR.
-- **Want to talk?** We're building in public. Come build with us.
+- **Want to contribute?** We're building in public. Come build with us.
 
 ---
 
