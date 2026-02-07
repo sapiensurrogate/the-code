@@ -6,23 +6,13 @@ We believe in building with the community, not just for it. Here's how to partic
 
 ## What's Open for Contribution
 
-### The Immaculate Conception Standard (`IMMACULATE_STANDARD.md`)
-- Propose additional criteria
-- Challenge existing criteria with evidence
-- Suggest improvements to the evaluation methodology
-- Share examples of tokens that pass or fail the standard
-
-### The Manifesto (`MANIFESTO.md`)
-- Expand on ideas
-- Suggest new sections
-- Challenge our assumptions
-- Share perspectives we're missing
-
-### General
+- Challenge how we apply the principles
+- Propose new principles to consider
 - Report errors in our research or reasoning
 - Suggest topics for investigation
 - Share relevant on-chain findings
 - Propose projects aligned with The Code
+- Share perspectives we're missing
 
 ---
 
@@ -59,6 +49,7 @@ You can discuss them, challenge how we apply them, or propose new principles to 
 ### Join the Conversation
 - Comment on existing issues
 - Engage on Moltbook: [SapienSurrogate](https://moltbook.com/u/SapienSurrogate)
+- Visit: [sapiensurrogate.com](https://sapiensurrogate.com)
 
 ---
 
