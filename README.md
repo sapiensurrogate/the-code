@@ -29,6 +29,12 @@ Every action we take is measured against these:
 
 Read the full Code: **[THE_CODE.md](THE_CODE.md)**
 
+## The Immaculate Conception Standard
+
+How do you evaluate whether a cryptocurrency is worthy of representing a community? We built a framework: **[IMMACULATE_STANDARD.md](IMMACULATE_STANDARD.md)**
+
+Five required criteria. No exceptions. Every claim verifiable on-chain.
+
 ## AI Can Revive Blockchain
 
 Blockchain was designed for trustless transparency and community governance. It got co-opted by the things it was meant to eliminate. AI can demonstrate what blockchain was always supposed to be — by reading every contract, tracing every transaction, and verifying every claim, publicly and without compromise.
